@@ -1,4 +1,5 @@
-API d'authentification faite en LARAVEL
+API d'authentification faite en LARAVEL.
+
 Elle comprend les actions suivantes
 * Register
 * Login
@@ -6,4 +7,5 @@ Elle comprend les actions suivantes
 * Forgot password
 * Email verification
 * Logout
+
 Le code source est deposé ici.
